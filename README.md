@@ -13,12 +13,6 @@
 <p align="center">
 <img src="https://github-profile-trophy.vercel.app/?username=alexkoren-dev&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&margin-h=50&no-bg=true">
 </p>
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=alexkoren-dev&show_icons=true&layout=compact&theme=radical" width="52%" align="left"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexkoren-dev&layout=compact&theme=radical" width="43%"/>
-</p>
-
-
 
 
 ## - About Me 👨‍🦱 

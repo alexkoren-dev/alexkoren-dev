@@ -7,7 +7,7 @@
 - 🔭 I'm a senior Javascript/Python/PHP Engineer
 - 🆓 I work full/part time in CET/EST timezone.
 - ⚡ I specialize in Full-stack web development.
-- 💬 Feel free to contact me: [alexkoren222@gmail.com](mailto:alexkoren222@gmail.com).
+- 💬 Feel free to contact me: [alexitkoren@gmail.com](mailto:alexitkoren@gmail.com).
 <hr/>
 
 <p align="center">

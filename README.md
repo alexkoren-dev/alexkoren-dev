@@ -10,10 +10,6 @@
 - 💬 Feel free to contact me: [alexitkoren@gmail.com](mailto:alexitkoren@gmail.com).
 <hr/>
 
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=alexkoren-dev&theme=juicyfresh&no-frame=true&row=1&&margin-w=20&margin-h=50&no-bg=true">
-</p>
-
 
 ## - About Me 👨‍🦱 
   
